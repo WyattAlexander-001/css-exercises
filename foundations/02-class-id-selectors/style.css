@@ -1,0 +1,22 @@
+.pinkify{
+    background-color: pink;
+}
+
+.blueBig{
+    background-color: blue;
+    font-size: 24px;
+    color: white;
+}
+
+.biggie{
+    font-size: 36px;
+}
+
+.green {
+    background-color: green;
+    color: white;
+}
+
+.bold{
+    font-weight: bold;
+}
